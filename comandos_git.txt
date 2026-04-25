@@ -6,3 +6,6 @@
 6. git commit -m "versión de subida" (Es la que version que estamos subiendo al repositorio)
 7. git push --u origin main (Este envia los cambios locales a la nube)
 8. git status (Comprueba el estado de la rama)
+Importante: git remote add origin https://github.com/JafettWh/Maquetado_web.git
+git push -u origin main 
+(Añade la dirección de su repositorio se ejecuta una sola vez)
